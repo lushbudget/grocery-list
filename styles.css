@@ -1,0 +1,59 @@
+body {
+  background-color: rgb(200, 200, 200);
+}
+section {
+  font-family: "Lucida Console", "Courier New", monospace;
+  color:rgb(66, 30, 30);
+  width: 50%;
+  border-radius: 40px;
+  background-color: rgb(85, 163, 119);
+  border: 22px solid rgb(189, 69, 69);
+  text-align: center;
+  margin: auto;
+  padding: 30px;
+  
+}
+
+div {
+  display: inline-block;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border-radius: 40px;
+  height: 200;
+  width: 200;
+  background-color: aquamarine;
+  border: 22px solid rgb(189, 69, 69);
+  margin: 15px;
+  padding: 100px;
+  position: relative;
+
+}
+#circle-section {
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+  font-size: 150%;
+  height: 200px;
+  width: 400px;
+  padding: auto;
+  border-radius: 60px;
+  /* padding: 40px; */
+  background-color: blanchedalmond;
+}
+
+.photo-section {
+  height: 300;
+  display: block;
+  padding: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 16%;
+
+}
+
+/* #inner-circle {
+  position: absolute;
+  background-color: antiquewhite;
+  border-radius: 100px;
+  height: 300px;
+  width: 300px;
+  margin: 0px 0px 0 px 100px;
+} */
